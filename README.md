@@ -7,7 +7,7 @@
 
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Competitive+Programmer;%20DS%20|%20Algorithms%20|%20JAVA%20|%20Cpp%20|%20Python;%20Android%20App%20Developer%20|%20Flutter%20Developer;Division%203%20on%20Codechef%20(2%20Stars);Always%20learning%20new%20things&center=true&width=550&height=50"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Competitive+Programmer;%20DS%20|%20Algorithms%20|%20JAVA%20|%20Python;%20Web%20Developer%20|%20MERN%20Developer;Division%203%20on%20Codechef%20(2%20Stars);Always%20learning%20new%20things&center=true&width=550&height=50"></a>
 </p>
 
 
@@ -21,12 +21,12 @@
 
 <br>
 
-![Shashwat's GitHub stats](https://github-readme-stats-stp2003.vercel.app/api?username=vd0904&show_icons=true&theme=tokyonight&border_radius=7.6)
+![Vedant's GitHub stats](https://github-readme-stats-stp2003.vercel.app/api?username=vd0904&show_icons=true&theme=tokyonight&border_radius=7.6)
 
 
 <br>
 
-![Shashwat's GitHub stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vd0904&theme=tokyonight&border_radius=7.6)
+![Vedant's GitHub stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vd0904&theme=tokyonight&border_radius=7.6)
 
 
 <br/>
@@ -39,9 +39,9 @@
 
 - 🔭 I’m currently working on [BaatCheet](https://github.com/stp2003/baatcheet)
 
-- 🌱 I’m currently learning *Flutter*
+- 🌱 I’m currently learning *REACT*
 
-- 👨‍💻 All of my projects are available at [https://github.com/stp2003](https://github.com/stp2003)
+- 👨‍💻 All of my projects are available at [https://github.com/vd0904](https://github.com/vd0904)
 
 <br>
 
