@@ -15,7 +15,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vd0904&label=Profile%20views&color=0e75b6&style=flat" alt="stp2003" /> </p>
 
-<img align="centre" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="centre" alt="Coding" width="400" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
 
 <br>
 
@@ -47,12 +47,12 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/shaashwat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@shaashwat" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/shashwat-shandilya/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shashwat-shandilya/" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/frank_2205" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="frank_2205" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/shashwatshandil3?hr_r=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@shashwatshandil3" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/shashwat_22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shashwat_22" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/shashwatshandilya2003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="shashwatshandilya2003" height="30" width="40" /></a>
+<a href="https://codepen.io/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@vedant" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/vedant-dwivedi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vedant-dwivedi/" height="30" width="40" /></a>
+<a href="https://www.codechef.com/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="frank_2205" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/vedantdwivedi051" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@vedantdwivedi051" height="30" width="40" /></a>
+<a href="https://leetcode.com/vd0904/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vd0904" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/vedantdwivedi05404" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="vedantdwivedi05404" height="30" width="40" /></a>
 </p>
 
 <br>
@@ -76,7 +76,7 @@
 
 # 📊 GitHub Contribution Graph:
 
-[![Shashwat's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=vd0904&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Vedant's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=vd0904&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 
