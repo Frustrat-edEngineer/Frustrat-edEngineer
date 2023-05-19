@@ -39,7 +39,7 @@
 
 - 🔭 I’m currently working on Portfolio Website. <!-- [BaatCheet](https://github.com/stp2003/baatcheet) -->
 
-- 🌱 I’m currently learning *REACT JS*
+- 🌱 I’m currently learning *REACT JS, Node JS*
 
 - 👨‍💻 All of my projects are available at [https://github.com/vd0904](https://github.com/vd0904)
 
