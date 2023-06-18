@@ -25,7 +25,6 @@
 <br>
 
 
-
 <br>
 
 ![Vedant's GitHub stats](https://github-readme-stats-stp2003.vercel.app/api?username=vd0904&show_icons=true&theme=tokyonight&border_radius=7.6)
