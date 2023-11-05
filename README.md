@@ -85,7 +85,7 @@
 
 
 
-[![Vedant's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=vd0904&theme=github-compact)]
+![Vedant's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=vd0904&theme=github-compact)
 <br>
 
 
