@@ -16,7 +16,7 @@
 
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vd0904&label=Profile%20views&color=0e75b6&style=flat" alt="stp2003" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=vd0904&label=Profile%20views&color=0e75b6&style=flat" alt="vedant-dwivedi" /> </p>
 
 <img align="centre" alt="Coding" width="400" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
 
@@ -25,13 +25,13 @@
 
 <br>
 
-![Vedant's GitHub stats](https://github-readme-stats-stp2003.vercel.app/api?username=vd0904&show_icons=true&theme=tokyonight&border_radius=7.6)
+![Vedant's GitHub stats](https://github-readme-stats-stp2003.vercel.app/api?username=vedant-dwivedi&show_icons=true&theme=tokyonight&border_radius=7.6)
 
 
 <br>
 
 
-![Vedant's GitHub stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vd0904&theme=tokyonight&border_radius=7.6)
+![Vedant's GitHub stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vedant-dwivedi&theme=tokyonight&border_radius=7.6)
 
 
 <br/>
@@ -39,16 +39,16 @@
 
 ## 🏆 GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=vd0904&theme=onedark)](https://github.com/stp2003/github-profile-trophy)
+![trophy](https://github-profile-trophy.vercel.app/?username=vedant-dwivedi&theme=onedark)
 
 
 <br>
 
-- 🔭 I’m currently working on Portfolio Website. <!-- [BaatCheet](https://github.com/stp2003/baatcheet) -->
+- 🔭 I’m currently working on Portfolio Website.
 
 - 🌱 I’m currently learning *REACT JS, Node JS*
 
-- 👨‍💻 All of my projects are available at [https://github.com/vd0904](https://github.com/vd0904)
+- 👨‍💻 All of my projects are available at [https://github.com/vedant-dwivedi](https://github.com/vedant-dwivedi)
 
 <br>
 
@@ -57,8 +57,8 @@
 <a href="https://codepen.io/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@vedant" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/vedant-dwivedi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vedant-dwivedi/" height="30" width="40" /></a>
 <a href="https://www.codechef.com/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="frank_2205" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/profile/vd0904" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@vd0904" height="30" width="40" /></a>
-<a href="https://leetcode.com/vd0904/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vd0904" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/profile/vd0904" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@vedant-dwivedi" height="30" width="40" /></a>
+<a href="https://leetcode.com/vd0904/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vedant-dwivedi" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/vedantdwivedi05404" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="vedantdwivedi05404" height="30" width="40" /></a>
 </p>
 
@@ -72,11 +72,11 @@
 
 # 📊 GitHub Stats:
 
-[![Top Langs](https://github-readme-stats-stp2003.vercel.app/api/top-langs/?username=vd0904&layout=compact&theme=tokyonight&border_radius=7.6)](https://github.com/stp2003/github-readme-stats) <br>
+[![Top Langs](https://github-readme-stats-stp2003.vercel.app/api/top-langs/?username=vedant-dwivedi&layout=compact&theme=tokyonight&border_radius=7.6)](https://github.com/stp2003/github-readme-stats) <br>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vd0904&theme=tokyonight&border_radius=7.6)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vedant-dwivedi&theme=tokyonight&border_radius=7.6)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vd0904&theme=tokyonight&border_radius=7.6)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vedant-dwivedi&theme=tokyonight&border_radius=7.6)
 
 
 <br>
@@ -86,13 +86,13 @@
 
 
 
-![Vedant's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=vd0904&theme=github-compact)
+![Vedant's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=vedant-dwivedi&theme=github-compact)
 <br>
 
 
 # 📊 GitHub Streak:
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=vd0904&theme=github-dark&border_radius=9&border=8CDD78&fire=EB5454&currStreakLabel=DDCF14&currStreakNum=55DDC6&dates=1CDD15&stroke=2A63FF&sideLabels=EB9C89)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=vedant-dwivedi&theme=github-dark&border_radius=9&border=8CDD78&fire=EB5454&currStreakLabel=DDCF14&currStreakNum=55DDC6&dates=1CDD15&stroke=2A63FF&sideLabels=EB9C89)](https://git.io/streak-stats)
 
 
 <br>
