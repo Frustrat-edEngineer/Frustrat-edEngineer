@@ -1,5 +1,6 @@
 ![MasterHead](https://miro.medium.com/v2/resize:fit:2000/1*-ntL3Dsvc-dJ5cLGRtSuEw.gif) 
 
+
 <h1 align="center"><b>Hi !<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Vedant Dwivedi </b></h1>
 
 
@@ -98,5 +99,6 @@
 <br>
 
 
-<!-- RAINBOW LINE BOT -->
-<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+<br><br>
