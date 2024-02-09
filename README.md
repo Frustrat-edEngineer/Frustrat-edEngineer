@@ -74,7 +74,7 @@
 
 # 📊 GitHub Stats:
 
-[![Top Langs](https://github-readme-stats-stp2003.vercel.app/api/top-langs/?username=vedant-dwivedi&layout=compact&theme=tokyonight&border_radius=7.6)](https://github.com/stp2003/github-readme-stats) <br>
+![Top Langs](https://github-readme-stats-stp2003.vercel.app/api/top-langs/?username=vedant-dwivedi&layout=compact&theme=tokyonight&border_radius=5.6)<br>
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vedant-dwivedi&theme=tokyonight&border_radius=7.6)
 
@@ -84,7 +84,8 @@
 
 <br>
 
-[![Leetcode Stats](https://leetcard.jacoblin.cool/vedant-dwivedi?ext=heatmap)](https://leetcode.com/vedant-dwivedi/)
+[![](https://leetcard.jacoblin.cool/vedant-dwivedi?ext=activity)](https://leetcode.com/vedant-dwivedi/)
+
 
 # 📊 GitHub Contribution Graph:
 
