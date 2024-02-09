@@ -85,6 +85,7 @@
 
 <br>
 
+[![Leetcode Stats](https://leetcard.jacoblin.cool/vedant-dwivedi?ext=heatmap)](https://leetcode.com/vedant-dwivedi/)
 
 # 📊 GitHub Contribution Graph:
 
