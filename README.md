@@ -24,13 +24,12 @@
 <br>
 
 
+<br>
+
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/vedant-dwivedi?cardType=level&theme=radical&preferLogin=false)](https://git.io/awesome-stats-card)
 
 <br>
 
-![Vedant's GitHub stats](https://github-readme-stats-stp2003.vercel.app/api?username=vedant-dwivedi&show_icons=true&theme=tokyonight&border_radius=7.6)
-
-
-<br>
 
 
 ![Vedant's GitHub stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vedant-dwivedi&theme=tokyonight&border_radius=7.6)
