@@ -45,9 +45,9 @@
 
 <br>
 
-- 🔭 I’m currently working on Portfolio Website but i will not.
+- 🔭 I’m currently working on Portfolio Website.
 
-- 🌱 I’m currently learning *REACT JS, Node JS, dsa cloud everything*
+- 🌱 I’m currently learning *REACT JS, Node JS*
 
 - 👨‍💻 All of my projects are available at [https://github.com/vedant-dwivedi](https://github.com/vedant-dwivedi)
 
