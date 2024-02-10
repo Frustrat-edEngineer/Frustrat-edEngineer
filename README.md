@@ -45,9 +45,9 @@
 
 <br>
 
-- 🔭 I’m currently working on Portfolio Website.
+- 🔭 I’m currently working on Portfolio Website but i will not.
 
-- 🌱 I’m currently learning *REACT JS, Node JS*
+- 🌱 I’m currently learning *REACT JS, Node JS, dsa cloud everything*
 
 - 👨‍💻 All of my projects are available at [https://github.com/vedant-dwivedi](https://github.com/vedant-dwivedi)
 
@@ -95,7 +95,7 @@
 <br>
 
 
-# 📊 GitHub Streak:
+# 📊 GitHub Streak: just flexing
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=vedant-dwivedi&theme=github-dark&border_radius=9&border=8CDD78&fire=EB5454&currStreakLabel=DDCF14&currStreakNum=55DDC6&dates=1CDD15&stroke=2A63FF&sideLabels=EB9C89)](https://git.io/streak-stats)
 
