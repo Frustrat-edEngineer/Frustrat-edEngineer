@@ -4,7 +4,7 @@
     </a> -->
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <!-- Adjust the number of non-breaking spaces as needed -->
     <a href="https://github.com/vedant-dwivedi/" target="_blank">
-        <img alt="http://readme-typing-svg.demolab.com" width="170" src="https://github.com/vedant-dwivedi/vedant-dwivedi/blob/master/FJ3DZITWCY268043HGFACIP9CFUA9XM6.gif?raw=true">
+        <img alt="http://readme-typing-svg.demolab.com" width="170" src="https://github.com/vedant-dwivedi/vedant-dwivedi/blob/main/FJ3DZITWCY268043HGFACIP9CFUA9XM6.gif?raw=true">
     </a>
 
 
@@ -12,7 +12,7 @@
 
 <h3 align="center"><img src="https://github.com/vedant-dwivedi/vedant-dwivedi/blob/master/code.gif?raw=true" height="20"</h3>
 
-<p align="center"><a href="https://github.com/vedant-dwivedi"><img src="https://github.com/vedant-dwivedi/vedant-dwivedi/blob/master/277383089-1632db93-5d88-408c-aa7a-3be102febcd3.gif" alt="Animated footer bars" width="100%"/></a></p>                                                                    
+<p align="center"><a href="https://github.com/vedant-dwivedi"><img src="https://github.com/vedant-dwivedi/vedant-dwivedi/blob/main/277383089-1632db93-5d88-408c-aa7a-3be102febcd3.gif" alt="Animated footer bars" width="100%"/></a></p>                                                                    
 
 <img src="https://readme-typing-svg.demolab.com?font=Architects+Daughter&amp;color=ff0000&amp;size=15&amp;lines=¦+𝓥𝓮𝓭𝓪𝓷𝓽+¦&&%20Code&center=true&width=440&height=18&vCenter=true&pause=1000&size=16" />
 
@@ -29,7 +29,7 @@
     <img src="https://raw.githubusercontent.com/vedant-dwivedi/vedant-dwivedi/master/Final.png" alt="Clickable Image">
 </a> -->
 
-<img src="https://github.com/vedant-dwivedi/vedant-dwivedi/blob/master/2nd%20arrow.gif?raw=true">
+<img src="https://github.com/vedant-dwivedi/vedant-dwivedi/blob/main/2nd%20arrow.gif?raw=true">
 
 
   <!-- Typing SVG by Vedant - https://github.com/vedant-dwivedi/readme-typing-svg -->
@@ -346,28 +346,28 @@ public class CodeBite {
 <p align="center">🅰🅲🆃🅸🆅🅸🆃🅸🅴🆂</p>
  <p align="center">
   <a href="https://github.com/vedant-dwivedi/" target="_blank">
-    <img src="https://github.com/vedant-dwivedi/vedant-dwivedi/blob/master/Man%20Bouncing%20Ball%20Medium-Dark%20Skin%20Tone.png?raw=true" alt="Ball" width="40" height="40" />
+    <img src="https://github.com/vedant-dwivedi/vedant-dwivedi/blob/main/Man%20Bouncing%20Ball%20Medium-Dark%20Skin%20Tone.png?raw=true" alt="Ball" width="40" height="40" />
   </a>
   <a href="https://github.com/vedant-dwivedi/" target="_blank">
-    <img src="https://github.com/vedant-dwivedi/vedant-dwivedi/blob/master/Soccer%20Ball.webp" alt="Soccer" width="40" height="40" />
+    <img src="https://github.com/vedant-dwivedi/vedant-dwivedi/blob/main/Soccer%20Ball.webp" alt="Soccer" width="40" height="40" />
   </a>
   <a href="https://github.com/vedant-dwivedi/" target="_blank">
-    <img src="https://github.com/vedant-dwivedi/vedant-dwivedi/blob/master/Video%20Game.webp" alt="Video" width="40" height="40" />
+    <img src="https://github.com/vedant-dwivedi/vedant-dwivedi/blob/main/Video%20Game.webp" alt="Video" width="40" height="40" />
   </a>
   <a href="https://github.com/vedant-dwivedi/" target="_blank">
-    <img src="https://github.com/vedant-dwivedi/vedant-dwivedi/blob/master/Musical%20Notes.png?raw=true" alt="Musical" width="40" height="40" />
+    <img src="https://github.com/vedant-dwivedi/vedant-dwivedi/blob/main/Musical%20Notes.png?raw=true" alt="Musical" width="40" height="40" />
   </a>
   <a href="https://github.com/vedant-dwivedi/" target="_blank">
-    <img src="https://github.com/vedant-dwivedi/vedant-dwivedi/blob/master/Man%20Technologist%20Medium-Dark%20Skin%20Tone.png?raw=true" alt="Tech" width="40" height="40" />
+    <img src="https://github.com/vedant-dwivedi/vedant-dwivedi/blob/main/Man%20Technologist%20Medium-Dark%20Skin%20Tone.png?raw=true" alt="Tech" width="40" height="40" />
   </a>
   <a href="https://github.com/vedant-dwivedi/" target="_blank">
-    <img src="https://github.com/vedant-dwivedi/vedant-dwivedi/blob/master/globe.gif?raw=true" alt="Globe" width="40" height="40" />
+    <img src="https://github.com/vedant-dwivedi/vedant-dwivedi/blob/main/globe.gif?raw=true" alt="Globe" width="40" height="40" />
   </a>
   <a href="https://github.com/vedant-dwivedi/" target="_blank">
-    <img src="https://github.com/vedant-dwivedi/vedant-dwivedi/blob/master/book.gif?raw=true" alt="Book" width="40" height="40" />
+    <img src="https://github.com/vedant-dwivedi/vedant-dwivedi/blob/main/book.gif?raw=true" alt="Book" width="40" height="40" />
   </a>
   <a href="https://github.com/vedant-dwivedi/" target="_blank">
-    <img src="https://github.com/vedant-dwivedi/vedant-dwivedi/blob/master/music.gif?raw=true" alt="Music" width="40" height="40"" />
+    <img src="https://github.com/vedant-dwivedi/vedant-dwivedi/blob/main/music.gif?raw=true" alt="Music" width="40" height="40"" />
   </a>
   
  </p>
@@ -384,7 +384,7 @@ public class CodeBite {
 
 <div align="center">
 
-<img height="30" alt="Thanks for visiting me" width="100%" src="https://github.com/vedant-dwivedi/vedant-dwivedi/blob/master/thankyou%20RJ.svg" />
+<img height="30" alt="Thanks for visiting me" width="100%" src="https://github.com/vedant-dwivedi/vedant-dwivedi/blob/main/thankyou%20RJ.svg" />
 <br />
 
 
@@ -395,4 +395,4 @@ public class CodeBite {
 </div>
 
 
-<img src="https://github.com/vedant-dwivedi/vedant-dwivedi/blob/master/line-neon.gif" width="100%"> 
+<img src="https://github.com/vedant-dwivedi/vedant-dwivedi/blob/main/line-neon.gif" width="100%"> 
