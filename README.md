@@ -1,108 +1,398 @@
-![MasterHead](https://miro.medium.com/v2/resize:fit:2000/1*-ntL3Dsvc-dJ5cLGRtSuEw.gif) 
-
-
-<h1 align="center"><b>Hi !<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Vedant Dwivedi </b></h1>
-
-
-<br>
-
-
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;UI/UX+Designer;%20DS%20|%20Algorithms%20|%20JAVA%20|%20Python;%20Web%20Developer%20|%20MERN%20Developer;Division%203%20on%20Codechef%20(2%20Stars);Always%20learning%20new%20things&center=true&width=550&height=50"></a>
+<!--     <a href="https://github.com/vedant-dwivedi/" target="_blank">
+        <img alt="http://readme-typing-svg.demolab.com" width="150" src="https://github.com/vedant-dwivedi/vedant-dwivedi/blob/master/2.png?raw=true">
+    </a> -->
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <!-- Adjust the number of non-breaking spaces as needed -->
+    <a href="https://github.com/vedant-dwivedi/" target="_blank">
+        <img alt="http://readme-typing-svg.demolab.com" width="170" src="https://github.com/vedant-dwivedi/vedant-dwivedi/blob/master/FJ3DZITWCY268043HGFACIP9CFUA9XM6.gif?raw=true">
+    </a>
+
+
+<p align="center"><a href="https://github.com/vedant-dwivedi"><img src="https://user-images.githubusercontent.com/41234408/101987287-302ffe00-3cb9-11eb-8510-3d08f56bea27.gif" alt="Animated footer bars" width="100%"/></a></p>
+
+<h3 align="center"><img src="https://github.com/vedant-dwivedi/vedant-dwivedi/blob/master/code.gif?raw=true" height="20"</h3>
+
+<p align="center"><a href="https://github.com/vedant-dwivedi"><img src="https://github.com/vedant-dwivedi/vedant-dwivedi/blob/master/277383089-1632db93-5d88-408c-aa7a-3be102febcd3.gif" alt="Animated footer bars" width="100%"/></a></p>                                                                    
+
+<img src="https://readme-typing-svg.demolab.com?font=Architects+Daughter&amp;color=ff0000&amp;size=15&amp;lines=¦+𝓥𝓮𝓭𝓪𝓷𝓽+¦&&%20Code&center=true&width=440&height=18&vCenter=true&pause=1000&size=16" />
+
+
+<img src="https://readme-typing-svg.demolab.com?font=Architects+Daughter&amp;color=ff0000&amp;size=15&amp;lines=।।+यत्रोपरमते+चित्तम्+ ।।&&%20Code&center=true&width=440&height=18&vCenter=true&pause=1000&size=17" />
+
+
+<a href="https://github.com/vedant-dwivedi/readme-typing-svg">
+  <img src="https://readme-typing-svg.demolab.com/?lines=COMPUTER%20SCIENCE%20STUDENT%20;FULL-STACK%20WEB%20DEVELOPER;DEV%20Ops%20;PROGRAMMER%20;UI%2FUX%20DESIGNER;ALWAYS%20LEARNING%20NEW%20THINGS&font=fira%20Code&center=true&width=440&height=35&color=20C20E&vCenter=true&pause=1000&size=22" />
+</a>
+
+
+ <!-- <a href="https://github.com/vedant-dwivedi/">
+    <img src="https://raw.githubusercontent.com/vedant-dwivedi/vedant-dwivedi/master/Final.png" alt="Clickable Image">
+</a> -->
+
+<img src="https://github.com/vedant-dwivedi/vedant-dwivedi/blob/master/2nd%20arrow.gif?raw=true">
+
+
+  <!-- Typing SVG by Vedant - https://github.com/vedant-dwivedi/readme-typing-svg -->
+</p>
+
+###
+<p align="center">
+  🅒🅞🅝🅝🅔🅒🅣 🅦🅘🅣🅗 🅜🅔
+   </p>
+<p align="center">
+<a href="https://discord.com/users/vedant.dwivedi" target="_blank"><img alt="" src="https://img.shields.io/badge/discord-000?style=for-the-badge&logo=discord&logoColor=4e5d94" style="vertical-align:center" /></a>
+<a href="https://github.com/vedant-dwivedi/" target="_blank"><img alt="" src="https://img.shields.io/badge/Portfolio-000?logo=vercel&logoColor=yellow&style=for-the-badge" style="vertical-align:center" /></a>
+<a href="https://twitter.com/vedantdotme" target="_blank"><img alt="" src="https://img.shields.io/badge/Twitter-000?logo=Twitter&logoColor=1DA1F2&style=for-the-badge" style="vertical-align:center" /></a>
+<a href="https://linkedin.com/in/vedant-dwivedi" target="_blank"><img alt="" src="https://img.shields.io/badge/LinkedIn-000?logo=linkedin&logoColor=0A66C2&style=for-the-badge" style="vertical-align:center" /></a>
+<a href="https://instagram.com/ved.9.4_" target="_blank"><img alt="" src="https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=Instagram&logoColor=E4405F" style="vertical-align:center" /></a>
+<!-- <a href="https://facebook.com/vedant" target="_blank"><img alt="vedant's facebook" src="https://img.shields.io/badge/facebook-000?style=for-the-badge&logo=facebook&logoColor=3b5998" style="vertical-align:center" /></a>
+<a href="https://codepen.io/ved" target="_blank"><img alt="" src="https://img.shields.io/badge/codepen-000?style=for-the-badge&logo=codepen&logoColor=FFFFFF" style="vertical-align:center" /></a> -->
+<!-- <a href="https://www.youtube.com/@dope_engineer" target="_blank"><img alt="" src="https://img.shields.io/badge/YouTube%20-000?style=for-the-badge&logo=youtube&logoColor=red" style="vertical-align:center" /></a> -->
+<a href="mailto:vedantdwivedi05404@gmail.com" target="_blank"><img alt="Email" src="https://img.shields.io/badge/gmail%20-000?style=for-the-badge&logo=gmail&logoColor=BB001B" style="vertical-align:center" /></a>
 </p>
 
 
+### 
+<p align="center"> 
+ 🅥🅘🅢🅘🅣🅞🅡 🅒🅞🅤🅝🅣<br>
+  <img src="https://komarev.com/ghpvc/?username=vd0904&label=Profile%20views&color=0e75b6&style=flat" alt="vedant-dwivedi" /> </p>
 
-<br>
+<!-- <p align="center"> 
+<img align="center" width="500px" src="@/../page-insights.svg" alt="Github Insight"/>
+</p> -->
+  
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vedant-dwivedi&theme=gotham&layout=compact"width="40%"/> 
+</p>
+
+<p align="center">
+<a href="https://github.com/vedant-dwivedi?tab=repositories"><img src="https://github-readme-stats-one-bice.vercel.app/api?username=vedant-dwivedi&theme=gotham&show_icons=true&count_private=true&hide_border=false&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="48%" alt="@Ved's github-readme-stats"/></a>
+<a href="https://github.com/vedant-dwivedi?tab=stars"><img src="https://github-readme-streak-stats.herokuapp.com?user=vedant-dwivedi&theme=gotham&hide_border=false&date_format=M%20j%5B%2C%20Y%5D"  width="48%" alt="@Ved's github-readme-streak-stats"/></a>
+</p>
 
 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vd0904&label=Profile%20views&color=0e75b6&style=flat" alt="vedant-dwivedi" /> </p>
-
-<img align="centre" alt="Coding" width="400" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
-
-<br>
-
-
-<br>
-
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/vedant-dwivedi?cardType=level&theme=radical&preferLogin=false)](https://git.io/awesome-stats-card)
-
-<br>
-
-
-
-![Vedant's GitHub stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vedant-dwivedi&theme=tokyonight&border_radius=7.6)
-
+<!-- <p align="center">
+  <a href="https://github.com/vedant-dwivedi"><img src="contributions.svg"></a> -->
+</p>
 
 <br/>
 
-
-## 🏆 GitHub Trophies
-
-![trophy](https://github-profile-trophy.vercel.app/?username=vedant-dwivedi&theme=onedark)
-
-
-<br>
-
-- 🔭 I’m currently working on Portfolio Website.
-
-- 🌱 I’m currently learning *REACT JS, Node JS*
-
-- 👨‍💻 All of my projects are available at [https://github.com/vedant-dwivedi](https://github.com/vedant-dwivedi)
-
-<br>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@vedant" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/vedant-dwivedi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vedant-dwivedi/" height="30" width="40" /></a>
-<a href="https://www.codechef.com/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="frank_2205" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/profile/vd0904" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@vedant-dwivedi" height="30" width="40" /></a>
-<a href="https://leetcode.com/vd0904/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vedant-dwivedi" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/vedantdwivedi05404" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="vedantdwivedi05404" height="30" width="40" /></a>
+###
+<p align="center"> 
+ 🅣🅔🅒🅗 🅢🅣🅐🅒🅚<br>
+ <p align="center">
+  <a href="https://www.java.com/en/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=java" alt="Java" width="25" height="25" />
+  </a>
+  <a href="https://www.w3schools.com/html/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=html" alt="HTML5" width="25" height="25" />
+  </a>
+  <a href="https://www.w3schools.com/css/default.asp" target="_blank">
+    <img src="https://skillicons.dev/icons?i=css" alt="CSS" width="25" height="25" />
+  </a>
+  <a href="https://expressjs.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=expressjs" alt="Express" width="25" height="25" />
+  </a>
+  <a href="https://www.docker.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=docker" alt="Docker" width="25" height="25" />
+  </a>
+  <a href="https://www.w3schools.com/js/default.asp" target="_blank">
+    <img src="https://skillicons.dev/icons?i=javascript" alt="JS" width="25" height="25" />
+  </a>
+  <a href="https://react.dev/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=react" alt="React.js" width="25" height="25" />
+  </a>
+  <a href="https://nodejs.org/en" target="_blank">
+    <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="25" height="25" />
+  </a>
+  <a href="https://www.postman.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=postman" alt="Postman" width="25" height="25" />
+  </a>
+  <a href="#" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Kali-dragon-icon.svg/2048px-Kali-dragon-icon.svg.png" alt="Kali-Linux" width="25" height="25" />
+  </a>
+  <a href="https://www.apple.com/macos/sonoma/" target="_blank">
+    <img src="https://www.svgrepo.com/show/349442/macos.svg" alt="macOS" width="25" height="25" />
+  </a>
 </p>
 
-<br>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-
-
-<br>
-
-
-# 📊 GitHub Stats:
-
-![Top Langs](https://github-readme-stats-stp2003.vercel.app/api/top-langs/?username=vedant-dwivedi&layout=compact&theme=tokyonight&border_radius=5.6)<br>
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vedant-dwivedi&theme=tokyonight&border_radius=7.6)
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vedant-dwivedi&theme=tokyonight&border_radius=7.6)
-
-
-
-<br>
-
-[![](https://leetcard.jacoblin.cool/vedant-dwivedi?ext=activity)](https://leetcode.com/vedant-dwivedi/)
-
-
-# 📊 GitHub Contribution Graph:
-
-
-
-![Vedant's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=vedant-dwivedi&theme=github-compact)
-<br>
-
-
-# 📊 GitHub Streak: just flexing
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=vedant-dwivedi&theme=github-dark&border_radius=9&border=8CDD78&fire=EB5454&currStreakLabel=DDCF14&currStreakNum=55DDC6&dates=1CDD15&stroke=2A63FF&sideLabels=EB9C89)](https://git.io/streak-stats)
-
-
-<br>
-
-
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+####
+<table>
+<div style="display: flex; align-items: flex-start; align: center">
+<table align="center">
+  <tr>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="40" height="40" />
+      <br>React
+    </td>
+    <td align="center" width="96">
+      <a href="https://www.python.org/">
+        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="40" height="40" />
+      </a>
+      <br>Python
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="40" height="40" />
+      <br>JavaScript
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="40" height="40" />
+      <br>Java
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/webpack-icon.svg" alt="icon" width="40" height="40" />
+      <br>Webpack
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="40" height="40" />
+      <br>MySQL
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="40" height="40" />
+      <br>TypeScript
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="40" height="40" />
+      <br>AWS
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="40" height="40" />
+      <br>Docker
+    </td>
+  </tr>
+  <tr>
+  <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="Redux" width="40" height="40" />
+      <br>Redux
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="40" height="40" />
+      <br>Github
+    </td>
+    <td align="center" width="96"> 
+        <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="40" height="40" alt="Git" />
+      <br>Git
+    </td>
+    <td align="center"  width="96">
+        <img src="https://skillicons.dev/icons?i=linux" width="40" height="40" alt="Linux" />
+      <br>Linux
+    </td>
+    <td align="center"  width="96">
+        <img src="https://skillicons.dev/icons?i=html" width="40" height="40" alt="HTML5" />
+      <br>HTML5
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=css" width="40" height="40" alt="css" />
+      <br>CSS
+    </td>
+    <td align="center"  width="96">
+        <img src="https://skillicons.dev/icons?i=tailwind" width="40" height="40" alt="tailwind" />
+      <br>Tailwind
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=androidstudio" width="40" height="40" alt="android-studio" />
+      <br>Android
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=jquery"width="40" height="40" alt="jQuery" />
+      <br>jQuery
+    </td>
+  </tr>
+ <tr>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=mongodb" width="40" height="40" alt="MongoDB" />
+      <br>MongoDB
+    </td>
+        <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=nodejs" width="40" height="40" alt="Nodejs" />
+      <br>Nodejs
+      </td>
+      </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=expressjs" width="40" height="40" alt="expressjs" />
+      <br>Expressjs
+    </td>
+            <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=vscode" width="40" height="40" alt="VsCode" />
+      <br>VsCode
+    </td>
+              <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=vercel" width="40" height="40" alt="Vercel" />
+      <br>Vercel
+    </td>
+              <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=figma" width="40" height="40" alt="figma" />
+      <br>Figma
+  <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://skillicons.dev/icons?i=firebase" alt="icon" width="40" height="40" />
+      </a>
+      <br>Firebase
+    </td>
+              <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=opencv" width="40" height="40" alt="opencv" />
+      <br>Opencv
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=kubernetes" width="40" height="40" alt="kubernetes" />
+      <br>Kubernetes
+    </td>
+ </tr>
+</table>
 <br><br>
+</table>
+
+
+
+
+
+
+<!-- activity graph start -->
+<p align="center">
+    <a href="https://github.com/vedant-dwivedi/">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=vedant-dwivedi&theme=gotham&hide_border=false&hide_title=false&area=fasle&custom_title=Total%20Contribution%20Graph%20In%20All%20Repo" width="95%" alt="activity graph">
+    </a>
+</p>
+<!-- activity graph end -->
+
+
+<p align="center">
+    <a href="https://github.com/vedant-dwivedi/">
+        <img src="https://github-profile-trophy.vercel.app/?username=vedant-dwivedi&column=-1&theme=dracula&layout=compact"width="95%"/> 
+</p>
+
+
+
+
+---
+<div align="center">
+
+#### 🅓🅔🅢🅘🅖🅝 &nbsp;/&nbsp; 🅥🅘🅢🅤🅐🅛&nbsp; 🅣🅞🅞🅛🅢
+![Figma](https://img.shields.io/badge/-Figma-000?style=for-the-badge&logo=figma)
+![Framer](https://img.shields.io/badge/-Framer-000?style=for-the-badge&logo=framer)
+![Adobe Lightroom](https://img.shields.io/badge/-Adobe%20Lightroom-000?style=for-the-badge&logo=adobe%20lightroom)
+![Canva](https://img.shields.io/badge/-Canva-000?style=for-the-badge&logo=canva)
+![Adobe After Effects](https://img.shields.io/badge/-Adobe%20After%20Effects-000?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white)
+
+
+#### 🅦🅔🅑 🅗🅞🅢🅣🅘🅝🅖
+![Vercel](https://img.shields.io/badge/-Vercel-000?style=for-the-badge&logo=vercel)
+![Heroku](https://img.shields.io/badge/-Heroku-000?style=for-the-badge&logo=heroku)
+![Firebase](https://img.shields.io/badge/-Firebase-000?style=for-the-badge&logo=firebase)
+![GitHub Pages](https://img.shields.io/badge/-GitHub%20Pages-000?style=for-the-badge&logo=github)
+![Netlify](https://img.shields.io/badge/-Netlify-000?style=for-the-badge&logo=netlify)
+
+<!-- #### 🅒🅘 / 🅒🅓
+![GitHub Actions](https://img.shields.io/badge/-github%20actions-000?style=for-the-badge&logo=githubactions)
+![Jenkins](https://img.shields.io/badge/-jenkins-000?style=for-the-badge&logo=jenkins) -->
+
+#### 🅓🅐🅣🅐 🅑🅐🅢🅔
+![Firebase](https://img.shields.io/badge/-Firebase-000?style=for-the-badge&logo=firebase)
+![MongoDB](https://img.shields.io/badge/-MongoDB-000?style=for-the-badge&logo=mongodb)
+
+
+#### 🅥🅔🅡🅢🅘🅞🅝 &nbsp; 🅒🅞🅝🅣🅡🅞🅛
+![Git](https://img.shields.io/badge/-Git-000?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=github)
+</div>
+
+<details>
+  <summary>Skills</summary>
+  
+- Problem Solving
+- Designing
+- Web Development
+- Photo & Video Editing
+- Cloud
+- Researching & Learning
+
+</details>
+
+
+
+
+``` 
+public class CodeBite {
+    public static void main(String[] args) {
+        // 🚀 Striving for perfection, one line of code at a time.
+        while (codeQuality < perfection) {
+            codeQuality++; // Incrementing code quality 🔝
+        }
+
+        // 🌟 Lifelong coder on a journey of constant improvement.
+        while (alive) {
+            eat();  // Fuel for the coding engine 🍕
+            sleep();  // Recovering for epic code adventures 💤
+            code();  // Crafting software magic ✨
+        }
+
+        // 👨‍💻 Proudly crafting elegant solutions in the digital realm.
+        // - VD's
+    }
+```
+
+
+
+<div align="center">
+    <i style="font-size: 10px;">
+        "In the world of digital creation, stay true to your goals with unwavering determination. <br><b>Don't let doubters sway your path; let their skepticism be the fuel for your journey.</b>.<br> You got a dream… You gotta protect it.<br><b>With focus and persistence, turn your dreams into digital realities.</b>"
+    </i>
+</div>
+
+
+
+####
+<br clear="both">
+<p align="center">🅰🅲🆃🅸🆅🅸🆃🅸🅴🆂</p>
+ <p align="center">
+  <a href="https://github.com/vedant-dwivedi/" target="_blank">
+    <img src="https://github.com/vedant-dwivedi/vedant-dwivedi/blob/master/Man%20Bouncing%20Ball%20Medium-Dark%20Skin%20Tone.png?raw=true" alt="Ball" width="40" height="40" />
+  </a>
+  <a href="https://github.com/vedant-dwivedi/" target="_blank">
+    <img src="https://github.com/vedant-dwivedi/vedant-dwivedi/blob/master/Soccer%20Ball.webp" alt="Soccer" width="40" height="40" />
+  </a>
+  <a href="https://github.com/vedant-dwivedi/" target="_blank">
+    <img src="https://github.com/vedant-dwivedi/vedant-dwivedi/blob/master/Video%20Game.webp" alt="Video" width="40" height="40" />
+  </a>
+  <a href="https://github.com/vedant-dwivedi/" target="_blank">
+    <img src="https://github.com/vedant-dwivedi/vedant-dwivedi/blob/master/Musical%20Notes.png?raw=true" alt="Musical" width="40" height="40" />
+  </a>
+  <a href="https://github.com/vedant-dwivedi/" target="_blank">
+    <img src="https://github.com/vedant-dwivedi/vedant-dwivedi/blob/master/Man%20Technologist%20Medium-Dark%20Skin%20Tone.png?raw=true" alt="Tech" width="40" height="40" />
+  </a>
+  <a href="https://github.com/vedant-dwivedi/" target="_blank">
+    <img src="https://github.com/vedant-dwivedi/vedant-dwivedi/blob/master/globe.gif?raw=true" alt="Globe" width="40" height="40" />
+  </a>
+  <a href="https://github.com/vedant-dwivedi/" target="_blank">
+    <img src="https://github.com/vedant-dwivedi/vedant-dwivedi/blob/master/book.gif?raw=true" alt="Book" width="40" height="40" />
+  </a>
+  <a href="https://github.com/vedant-dwivedi/" target="_blank">
+    <img src="https://github.com/vedant-dwivedi/vedant-dwivedi/blob/master/music.gif?raw=true" alt="Music" width="40" height="40"" />
+  </a>
+  
+ </p>
+
+
+
+<p>
+
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=50&size=25&pause=1000&color=20C20E&center=true&width=1000&lines=-------------------------------------------------------------------------------------------------" alt="Typing SVG" /></a>
+</p> 
+
+
+
+<div align="center">
+
+<img height="30" alt="Thanks for visiting me" width="100%" src="https://github.com/vedant-dwivedi/vedant-dwivedi/blob/master/thankyou%20RJ.svg" />
+<br />
+
+
+<div align="center">
+    
+###### @2024 [VED](https://github.com/vedant-dwivedi/), Inc. All rights reserved
+
+</div>
+
+
+<img src="https://github.com/vedant-dwivedi/vedant-dwivedi/blob/master/line-neon.gif" width="100%"> 
