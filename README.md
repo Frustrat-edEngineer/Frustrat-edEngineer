@@ -332,8 +332,8 @@ public class CodeBite {
             code();  // Crafting software magic ✨
         }
 
-        // 👨‍💻 Proudly crafting elegant solutions in the digital realm.
-        // - VD's
+        // 👨‍💻 Proudly Crafting Pixels into Purpose.
+        // - VED's
     }
 ```
 
@@ -390,7 +390,7 @@ public class CodeBite {
 
 <div align="center">
 
-<img height="30" alt="Thanks for visiting me" width="100%" src="https://github.com/vedant-dwivedi/vedant-dwivedi/blob/main/thankyou%20RJ.svg" />
+<img height="30" alt="Thanks for visiting" width="100%" src="https://github.com/vedant-dwivedi/vedant-dwivedi/blob/main/thankyou%20RJ.svg" />
 <br />
 
 
