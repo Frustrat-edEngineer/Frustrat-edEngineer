@@ -21,7 +21,7 @@
 
 
 <a href="https://github.com/vedant-dwivedi/readme-typing-svg">
-  <img src="https://readme-typing-svg.demolab.com/?lines=COMPUTER%20SCIENCE%20STUDENT%20;FULL-STACK%20WEB%20DEVELOPER;DEV%20Ops%20;PROGRAMMER%20;UI%2FUX%20DESIGNER;ALWAYS%20LEARNING%20NEW%20THINGS&font=fira%20Code&center=true&width=440&height=35&color=20C20E&vCenter=true&pause=1000&size=22" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=COMPUTER%20SCIENCE%20STUDENT%20;FULL-STACK%20WEB%20DEVELOPER;DEV%20Ops%20;PROGRAMMER%20;UI%2FUX%20DESIGNER;ALWAYS%20LEARNING%20NEW%20THINGS&font=fira%20Code&center=true&width=440&height=35&color=4cbcfc&vCenter=true&pause=1000&size=22" />
 </a>
 
 
