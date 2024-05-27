@@ -80,6 +80,10 @@
 </p>
 
 
+<!-- [![GitHub Streak]
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=vedant-dwivedi&theme=dracula&hide_border=true" alt="GitHub Streak" /></a> -->
+
+
 <!-- <p align="center">
   <a href="https://github.com/vedant-dwivedi"><img src="contributions.svg"></a>
 </p> -->
