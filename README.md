@@ -37,6 +37,7 @@
 
 
  <!-- Typing SVG by Vedant - https://github.com/vedant-dwivedi/readme-typing-svg -->
+ <a href=#><img src="contributions.svg"></a>
  
 </p>
 
