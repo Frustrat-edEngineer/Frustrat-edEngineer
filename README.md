@@ -36,7 +36,8 @@
 <img src="https://github.com/vedant-dwivedi/vedant-dwivedi/blob/main/2nd%20arrow.gif?raw=true">
 
 
- Typing SVG by Vedant - https://github.com/vedant-dwivedi/readme-typing-svg 
+ <!-- Typing SVG by Vedant - https://github.com/vedant-dwivedi/readme-typing-svg -->
+ 
 </p>
 
 ###
