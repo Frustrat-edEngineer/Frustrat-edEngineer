@@ -42,7 +42,7 @@
 
 ###
 <p align="center">
-  🅒🅞🅝🅝🅔🅒🅣 🅦🅘🅣🅗 🅜🅔
+  ℂ𝕠𝕟𝕟𝕖𝕔𝕥 𝕎𝕚𝕥𝕙 𝕄𝔼
    </p>
 <p align="center">
 <a href="https://discord.com/users/vedant.dwivedi" target="_blank"><img alt="" src="https://img.shields.io/badge/discord-000?style=for-the-badge&logo=discord&logoColor=4e5d94" style="vertical-align:center" /></a>
@@ -59,7 +59,7 @@
 
 ### 
 <p align="center"> 
- 🅥🅘🅢🅘🅣🅞🅡 🅒🅞🅤🅝🅣<br>
+ 𝕍𝕚𝕤𝕚𝕥𝕠𝕣𝕤 ℂ𝕠𝕦𝕟𝕥<br>
   <img src="https://komarev.com/ghpvc/?username=vd0904&label=Profile%20views&color=0e75b6&style=flat" alt="vedant-dwivedi" /> </p>
 
 <!-- <p align="center"> 
@@ -94,7 +94,7 @@
 
 ###
 <p align="center"> 
- 🅣🅔🅒🅗 🅢🅣🅐🅒🅚<br>
+ 𝕋𝕖𝕔𝕙 𝕊𝕥𝕒𝕔𝕜<br>
  <p align="center">
   <a href="https://www.java.com/en/" target="_blank">
     <img src="https://skillicons.dev/icons?i=java" alt="Java" width="25" height="25" />
@@ -281,8 +281,8 @@
 
 ---
 <div align="center">
-
-#### 🅓🅔🅢🅘🅖🅝 &nbsp;/&nbsp; 🅥🅘🅢🅤🅐🅛&nbsp; 🅣🅞🅞🅛🅢
+        
+#### 𝔻𝕖𝕤𝕚𝕘𝕟 &nbsp;/&nbsp; 𝕍𝕚𝕤𝕦𝕒𝕝&nbsp; 𝕋𝕠𝕠𝕝𝕤
 ![Figma](https://img.shields.io/badge/-Figma-000?style=for-the-badge&logo=figma)
 ![Framer](https://img.shields.io/badge/-Framer-000?style=for-the-badge&logo=framer)
 ![Adobe Lightroom](https://img.shields.io/badge/-Adobe%20Lightroom-000?style=for-the-badge&logo=adobe%20lightroom)
@@ -290,23 +290,23 @@
 ![Adobe After Effects](https://img.shields.io/badge/-Adobe%20After%20Effects-000?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white)
 
 
-#### 🅦🅔🅑 🅗🅞🅢🅣🅘🅝🅖
+#### 𝕎𝕖𝕓 ℍ𝕠𝕤𝕥𝕚𝕟𝕘
 ![Vercel](https://img.shields.io/badge/-Vercel-000?style=for-the-badge&logo=vercel)
 ![Heroku](https://img.shields.io/badge/-Heroku-000?style=for-the-badge&logo=heroku)
 ![Firebase](https://img.shields.io/badge/-Firebase-000?style=for-the-badge&logo=firebase)
 ![GitHub Pages](https://img.shields.io/badge/-GitHub%20Pages-000?style=for-the-badge&logo=github)
 ![Netlify](https://img.shields.io/badge/-Netlify-000?style=for-the-badge&logo=netlify)
 
-<!-- #### 🅒🅘 / 🅒🅓
+<!-- #### ℂ𝕀 / ℂ𝔻
 ![GitHub Actions](https://img.shields.io/badge/-github%20actions-000?style=for-the-badge&logo=githubactions)
 ![Jenkins](https://img.shields.io/badge/-jenkins-000?style=for-the-badge&logo=jenkins) -->
 
-#### 🅓🅐🅣🅐 🅑🅐🅢🅔
+#### 𝔻𝕒𝕥𝕒 𝔹𝕒𝕤𝕖
 ![Firebase](https://img.shields.io/badge/-Firebase-000?style=for-the-badge&logo=firebase)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000?style=for-the-badge&logo=mongodb)
 
 
-#### 🅥🅔🅡🅢🅘🅞🅝 &nbsp; 🅒🅞🅝🅣🅡🅞🅛
+#### 𝕍𝕖𝕣𝕤𝕚𝕠𝕟 &nbsp; ℂ𝕠𝕟𝕥𝕣𝕠𝕝
 ![Git](https://img.shields.io/badge/-Git-000?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=github)
 </div>
@@ -358,7 +358,7 @@ public class CodeBite {
 
 ####
 <br clear="both">
-<p align="center">🅰🅲🆃🅸🆅🅸🆃🅸🅴🆂</p>
+<p align="center">𝔸𝕔𝕥𝕚𝕧𝕚𝕥𝕚𝕖𝕤</p>
  <p align="center">
   <a href="https://github.com/vedant-dwivedi/" target="_blank">
     <img src="https://github.com/vedant-dwivedi/vedant-dwivedi/blob/main/Man%20Bouncing%20Ball%20Medium-Dark%20Skin%20Tone.png?raw=true" alt="Ball" width="40" height="40" />
