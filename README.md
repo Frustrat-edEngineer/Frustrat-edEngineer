@@ -7,7 +7,7 @@
     <a href="https://github.com/vedant-dwivedi/" target="_blank">
         <img alt="http://readme-typing-svg.demolab.com" width="270" src="https://github.com/vedant-dwivedi/vedant-dwivedi/blob/main/FJ3DZITWCY268043HGFACIP9CFUA9XM6.gif?raw=true">
     </a>
-
+</p>
 
 
 
