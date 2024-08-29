@@ -2,9 +2,10 @@
 <!--     <a href="https://github.com/vedant-dwivedi/" target="_blank">
         <img alt="http://readme-typing-svg.demolab.com" width="150" src="https://github.com/vedant-dwivedi/vedant-dwivedi/blob/master/2.png?raw=true">
     </a> -->
+        <a href="https://github.com/vedant-dwivedi/" target="_blank"><img src="Profile.svg" width ="500"></a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <!-- Adjust the number of non-breaking spaces as needed -->
     <a href="https://github.com/vedant-dwivedi/" target="_blank">
-        <img alt="http://readme-typing-svg.demolab.com" width="170" src="https://github.com/vedant-dwivedi/vedant-dwivedi/blob/main/FJ3DZITWCY268043HGFACIP9CFUA9XM6.gif?raw=true">
+        <img alt="http://readme-typing-svg.demolab.com" width="270" src="https://github.com/vedant-dwivedi/vedant-dwivedi/blob/main/FJ3DZITWCY268043HGFACIP9CFUA9XM6.gif?raw=true">
     </a>
 
 
